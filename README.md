@@ -32,7 +32,7 @@ Not just CPU and RAM percentages — SpecFit classifies your system into one of 
 ## Setup
 
 ```bash
-git clone https://github.com/Dreadonyx/SpecFit.git
+git clone https://github.com/H3M4N1H/SpecFit.git
 cd SpecFit
 pip install -r requirements.txt
 
@@ -116,4 +116,4 @@ SpecFit/
 
 ## Author
 
-**Dreadonyx** — [github.com/Dreadonyx](https://github.com/Dreadonyx)
+**H3M4N1H** — [github.com/H3M4N1H](https://github.com/H3M4N1H)
